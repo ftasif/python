@@ -11,5 +11,5 @@ def prime(x,y):
             mylist.append(i)
     
     return mylist
-l=prime(3,9)
-print(l)
+ll=prime(3,9)
+print(ll)
